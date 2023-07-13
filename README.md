@@ -1,4 +1,8 @@
-# InsecureProgramming
+# InsecureProgramming (My Solutions) 
+
+This repo is for my solutions to the insecure programming exercises
+
+ORIGINAL REPO DESCRIPTION:
  I originally crafted this exercises for raddy when he was 17? and
  wanted to learn what a buffer overflow was and how to exploit it. He
  showed me a few exercises he was doing and they were pretty poor, so
